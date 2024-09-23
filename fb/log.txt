@@ -1073,3 +1073,8 @@
 [√] Frame: 1073, Episode 01 https://facebook.com/122110198832517209
 [√] Frame: 1074, Episode 01 https://facebook.com/122110199354517209
 [√] Frame: 1075, Episode 01 https://facebook.com/122110199720517209
+[√] Frame: 1076, Episode 01 https://facebook.com/122110270286517209
+[√] Frame: 1077, Episode 01 https://facebook.com/122110271120517209
+[√] Frame: 1078, Episode 01 https://facebook.com/122110271756517209
+[√] Frame: 1079, Episode 01 https://facebook.com/122110272494517209
+[√] Frame: 1080, Episode 01 https://facebook.com/122110273022517209

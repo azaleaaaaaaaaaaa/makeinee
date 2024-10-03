@@ -4,7 +4,7 @@ on:
    workflow_dispatch:
    schedule:
      # You can change this CRON syntax to customize execute interval
-     - cron: "0 */10 * * *"
+     - cron: "0 */2 * * *"
 
 jobs:
  checks:

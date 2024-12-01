@@ -1,0 +1,435 @@
+[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00EEEEF0,&H000000FF,&H00414040,&H50500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Top,Trebuchet MS,24,&H00EEEEF0,&H000000FF,&H00414040,&H50500000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Italics,Trebuchet MS,24,&H00EEEEF0,&H000000FF,&H00414040,&H50500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0049494C,&H50000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.87,0:00:16.32,Italics,Nukumizu,0000,0000,0000,,"Anyone Who Says I'm Flat-Chested \NNeeds to Step in a Pile of Dog Poop."
+Dialogue: 0,0:00:16.83,0:00:18.99,Italics,Nukumizu,0000,0000,0000,,I've waited so long for this to come out.
+Dialogue: 0,0:00:18.99,0:00:20.80,Italics,Nukumizu,0000,0000,0000,,Summer vacation's almost over,
+Dialogue: 0,0:00:20.80,0:00:25.19,Italics,Nukumizu,0000,0000,0000,,so I wanna get home and enjoy what's left \Nof it reading in an air-conditioned room.
+Dialogue: 0,0:01:58.41,0:02:01.30,Default,Kaju,0000,0000,0000,,Welcome home, big brother! \NWe have a situation!
+Dialogue: 0,0:02:01.30,0:02:03.93,Default,Nukumizu,0000,0000,0000,,What's wrong, Kaju? Why are you so upset?
+Dialogue: 0,0:02:03.93,0:02:07.27,Default,Kaju,0000,0000,0000,,It's an emergency! We need to \Nschedule an interview immediately!
+Dialogue: 0,0:02:07.27,0:02:09.73,Default,Kaju,0000,0000,0000,,O-Or should we just conduct one right now?
+Dialogue: 0,0:02:10.19,0:02:12.71,Default,Nukumizu,0000,0000,0000,,All right. Take a deep breath.
+Dialogue: 0,0:02:12.71,0:02:15.11,Default,Nukumizu,0000,0000,0000,,Once you've calmed down, \Ntell me what happened.
+Dialogue: 0,0:02:15.36,0:02:16.82,Default,Kaju,0000,0000,0000,,Okay! I have calmed down!
+Dialogue: 0,0:02:16.82,0:02:19.79,Default,Kaju,0000,0000,0000,,She showed up without warning \Nwhile I was preparing lunch!
+Dialogue: 0,0:02:19.79,0:02:22.82,Default,Kaju,0000,0000,0000,,Oh! Lunch today is \Nleftover curry from yesterday!
+Dialogue: 0,0:02:22.82,0:02:25.08,Italics,Nukumizu,0000,0000,0000,,Yeah, she hasn't calmed down at all.
+Dialogue: 0,0:02:25.91,0:02:28.98,Default,Nukumizu,0000,0000,0000,,Well, at least I know what's for... lunch...
+Dialogue: 0,0:02:31.98,0:02:33.85,Default,Nukumizu,0000,0000,0000,,It can't be.
+Dialogue: 0,0:02:35.02,0:02:37.51,Default,Anna,0000,0000,0000,,Oh, Nukumizu-kun! Long time no see!
+Dialogue: 0,0:02:37.51,0:02:41.85,Default,Anna,0000,0000,0000,,This curry is so good. Don't they say \Ncurry tastes better on the second day?
+Dialogue: 0,0:02:42.16,0:02:45.40,Default,Nukumizu,0000,0000,0000,,Um, Yanami-san, why are you \Nin my house eating curry?
+Dialogue: 0,0:02:46.48,0:02:48.10,Italics,Nukumizu,0000,0000,0000,,Don't talk with your mouth full!
+Dialogue: 0,0:02:49.72,0:02:53.56,Default,Anna,0000,0000,0000,,Well, I've been visiting all my friends\N to give them somen noodles.
+Dialogue: 0,0:02:53.56,0:02:55.07,Default,text,0000,0000,0000,,{\fnGeorgia\\frz26.55\fs10\b1\fscx88\fax0.1\shad0.1\bord1\c&H3B2723&\3c&H68867A&\pos(329,141)}Grandmother's\N\h\hThreads
+Dialogue: 0,0:02:53.56,0:02:55.07,Default,text,0000,0000,0000,,{\fnGeorgia\\fs10\b1\fscx88\fax0.1\shad0.1\bord1\c&H3B2723&\3c&H68867A&\pos(389.333,218.667)\frz27.65}Highest Quality
+Dialogue: 0,0:02:53.56,0:02:55.07,Default,text,0000,0000,0000,,{\fnGeorgia\\fs10\b1\fscx88\fax0.08\shad0.1\bord1\c&H3B2723&\3c&H68867A&\pos(236.666,186.667)\clip(m 201 169 l 220 198 285 175 260 134)\frz30.4}Grandmother's\N\h\hThreads
+Dialogue: 0,0:02:53.56,0:02:55.07,Default,text,0000,0000,0000,,{\fnGeorgia\\fs10\b1\fscx88\fax0.04\shad0.1\bord1\c&H3B2723&\3c&H68867A&\pos(302,268.667)\frz32.47\clip(m 301 296 l 287 282 270 262 322 234 340 267)}Highest Quality
+Dialogue: 0,0:02:55.80,0:02:58.07,Default,Nukumizu,0000,0000,0000,,Why do you have so much somen?
+Dialogue: 0,0:02:58.94,0:03:02.28,Default,Anna,0000,0000,0000,,Dad's salary was paid in somen this month.
+Dialogue: 0,0:03:04.94,0:03:07.54,Default,Nukumizu,0000,0000,0000,,His salary? What's going on?
+Dialogue: 0,0:03:07.54,0:03:12.24,Default,Anna,0000,0000,0000,,Some stuff happened, and he \Ngot all of his July pay in somen.
+Dialogue: 0,0:03:12.79,0:03:16.21,Default,Anna,0000,0000,0000,,So we have tons of somen at home. \NLike, a street value of 300,000 yen.
+Dialogue: 0,0:03:16.81,0:03:19.68,Default,Nukumizu,0000,0000,0000,,"Somen" isn't some codeword, is it?\N Is this stuff legal?
+Dialogue: 0,0:03:19.68,0:03:23.64,Default,text,0000,0000,0000,,{\fnGeorgia\\fs20\b1\fscx108\fax0.5\shad0.5\bord1.5\c&H3B2723&\3c&H68867A&\frz8.885\pos(305.333,260.666)}Grandmother's\N\h\h\h\h\h{\fay-0.03}Threads
+Dialogue: 0,0:03:19.68,0:03:23.64,Default,Anna,0000,0000,0000,,Of course it is! What kind of family \Ndo you think I'm from, exactly?
+Dialogue: 0,0:03:24.80,0:03:27.80,Default,Anna,0000,0000,0000,,And I've eaten it. A lifetime's worth.
+Dialogue: 0,0:03:27.80,0:03:29.64,Italics,Nukumizu,0000,0000,0000,,I don't really get it, but I think I got it.
+Dialogue: 0,0:03:30.23,0:03:31.45,Default,Nukumizu,0000,0000,0000,,Want some more curry?
+Dialogue: 0,0:03:31.45,0:03:33.63,Default,Anna,0000,0000,0000,,That was my third plate. I'm good now.
+Dialogue: 0,0:03:33.63,0:03:35.22,Italics,Nukumizu,0000,0000,0000,,You weren't on your second?
+Dialogue: 0,0:03:40.67,0:03:45.53,Default,Kaju,0000,0000,0000,,Um, Yanami-san. Would you mind \Nif I asked you a few things?
+Dialogue: 0,0:03:47.87,0:03:48.18,Default,text,0000,0000,0000,,{\fs16\fax0.55\frz212.7\b1\shad0\bord0\blur0.3\c&H777A77&\pos(385.334,150)}Start Recording
+Dialogue: 0,0:03:48.18,0:03:48.58,Default,text,0000,0000,0000,,{\fs16\fax0.55\frz212.7\b1\shad0\bord0\blur0.3\c&H0B0051&\pos(385.334,150)}Recording
+Dialogue: 0,0:03:49.45,0:03:52.25,Default,Kaju,0000,0000,0000,,First of all, your date of birth and blood type.
+Dialogue: 0,0:03:52.25,0:03:55.83,Default,Kaju,0000,0000,0000,,Your family structure, hobbies, and skills. \NAnd when did you start seeing my big brother?
+Dialogue: 0,0:03:56.13,0:04:00.30,Default,Nukumizu,0000,0000,0000,,Hey, look. Yanami-san's really busy. \NCan't you save this for another time?
+Dialogue: 0,0:04:00.30,0:04:04.47,Default,Kaju,0000,0000,0000,,But dear brother, I need her to \Ntell me stories about your school.
+Dialogue: 0,0:04:05.07,0:04:09.10,Default,Anna,0000,0000,0000,,Nukumizu-kun, you make \Nher call you "dear brother"?
+Dialogue: 0,0:04:09.52,0:04:12.06,Default,Nukumizu,0000,0000,0000,,I don't {\i1}make{\i0} her call me that!\N There's a difference!
+Dialogue: 0,0:04:21.40,0:04:24.86,Italics,Nukumizu,0000,0000,0000,,Comfortably lukewarm with \Njust the perfect whiff of chlorine.
+Dialogue: 0,0:04:24.86,0:04:27.83,Italics,Nukumizu,0000,0000,0000,,The tap water during summer \Nvacation is something special.
+Dialogue: 0,0:04:33.21,0:04:35.71,Default,Nukumizu,0000,0000,0000,,Uh, is that you, Shikiya-senpai?
+Dialogue: 0,0:04:36.24,0:04:40.09,Default,Shikiya,0000,0000,0000,,And you must be... the boy \Nfrom the literature club?
+Dialogue: 0,0:04:40.09,0:04:40.80,Default,Nukumizu,0000,0000,0000,,Um...
+Dialogue: 0,0:04:41.17,0:04:43.23,Italics,Nukumizu,0000,0000,0000,,What's she doing here?
+Dialogue: 0,0:04:43.83,0:04:48.51,Default,Shikiya,0000,0000,0000,,I came for something to drink,\N but I ran out of energy.
+Dialogue: 0,0:04:52.15,0:04:53.06,Default,Nukumizu,0000,0000,0000,,Here you go.
+Dialogue: 0,0:04:55.86,0:04:57.02,Default,Shikiya,0000,0000,0000,,Tip it for me.
+Dialogue: 0,0:04:57.02,0:04:58.36,Default,Nukumizu,0000,0000,0000,,What? Huh?
+Dialogue: 0,0:05:01.38,0:05:03.44,Default,Shikiya,0000,0000,0000,,Hurry up.
+Dialogue: 0,0:05:13.80,0:05:17.01,Italics,Nukumizu,0000,0000,0000,,What in the world am I doing here?
+Dialogue: 0,0:05:19.14,0:05:20.39,Default,Shikiya,0000,0000,0000,,Thanks.
+Dialogue: 0,0:05:20.89,0:05:22.13,Default,Shikiya,0000,0000,0000,,Brought me back to life.
+Dialogue: 0,0:05:24.17,0:05:25.67,Default,Shikiya,0000,0000,0000,,By the way...
+Dialogue: 0,0:05:26.16,0:05:30.93,Default,Shikiya,0000,0000,0000,,I heard Koto-san and Tamaki-san \Nstarted dating. Is it true?
+Dialogue: 0,0:05:30.93,0:05:34.64,Default,Nukumizu,0000,0000,0000,,Huh? Uh, yes. It is.
+Dialogue: 0,0:05:35.37,0:05:37.51,Default,Shikiya,0000,0000,0000,,Oh, it is?
+Dialogue: 0,0:05:42.00,0:05:44.18,Italics,Nukumizu,0000,0000,0000,,Man, she's scary!
+Dialogue: 0,0:05:44.57,0:05:47.03,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs13\c&H101B11&\frz14.12\pos(224,239.333)}Absent Today
+Dialogue: 0,0:05:44.82,0:05:47.03,Default,Tamaki,0000,0000,0000,,Okay, should we get down to business?
+Dialogue: 0,0:05:47.03,0:05:49.82,Default,Tamaki,0000,0000,0000,,We actually got a notice \Nfrom the student council.
+Dialogue: 0,0:05:49.82,0:05:50.82,Default,Nukumizu,0000,0000,0000,,The student council?
+Dialogue: 0,0:05:51.05,0:05:56.31,Default,Tamaki,0000,0000,0000,,All clubs are required to report \Ntheir activities over summer vacation.
+Dialogue: 0,0:05:56.81,0:06:00.14,Default,Tamaki,0000,0000,0000,,That's what I wanted to \Ntalk to you all about today.
+Dialogue: 0,0:06:00.14,0:06:03.97,Default,Nukumizu,0000,0000,0000,,But summer vacation's almost over. Why now?
+Dialogue: 0,0:06:03.97,0:06:06.74,Default,Tamaki,0000,0000,0000,,Why now? Well...
+Dialogue: 0,0:06:06.74,0:06:11.21,Default,Koto,0000,0000,0000,,We don't have a choice. I was busy \Nwith driving school and forgot all about it.
+Dialogue: 0,0:06:11.21,0:06:12.63,Italics,Nukumizu,0000,0000,0000,,What about entrance exams?
+Dialogue: 0,0:06:12.63,0:06:13.82,Default,Tamaki,0000,0000,0000,,So here's my idea:
+Dialogue: 0,0:06:13.82,0:06:19.33,Default,Tamaki,0000,0000,0000,,we take the web novels we wrote before \Nand make them into a book. How's that sound?
+Dialogue: 0,0:06:19.33,0:06:20.60,Default,Koto,0000,0000,0000,,Here's a sample.
+Dialogue: 0,0:06:21.21,0:06:23.07,Default,text,0000,0000,0000,,{\fad(300,0)\an7\bord0.5\shad0\p1\fscy300\pos(3.334,-40.667)\3c&H83381B&\c&H916921&}m 420 20 l 610 20 610 80 420 80
+Dialogue: 1,0:06:21.21,0:06:23.07,Default,text,0000,0000,0000,,{\fad(300,0)\an8\fnComic Sans MS\bord1.4\shad0\blur0.3\b1\fs26\pos(518,28)\c&HD5EAEA&\3c&H292F1B&}Is It More Painful \Nto Be the Person \NWho Waits \Nor the Person \NWho Sleeps Alone?\N\N{\fs18}(All Ages)
+Dialogue: 0,0:06:21.84,0:06:23.07,Italics,Nukumizu,0000,0000,0000,,What kind of sample is that?
+Dialogue: 0,0:06:23.07,0:06:27.13,Default,Anna,0000,0000,0000,,Okay! I'll write the next part \Nof the one I wrote at camp.
+Dialogue: 0,0:06:27.13,0:06:28.99,Default,Anna,0000,0000,0000,,What will you write, Komari-chan?
+Dialogue: 0,0:06:32.64,0:06:34.20,Default,text,0000,0000,0000,,{\fad(250,0)\bord0\shad0\blur0.3\fnArial\fs30\c&H1F2523&\frz359.7\pos(308,197.333)}A new work
+Dialogue: 0,0:06:33.10,0:06:34.20,Default,Anna,0000,0000,0000,,A new work?
+Dialogue: 0,0:06:34.20,0:06:37.17,Default,Anna,0000,0000,0000,,You sure go all-out, Komari-chan. \NYou, Nukumizu-kun?
+Dialogue: 0,0:06:37.17,0:06:37.96,Default,Nukumizu,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:37.96,0:06:43.92,Default,Nukumizu,0000,0000,0000,,Well, I guess I could revise the first part \Nof {\i1}Halfwit on Love St.{\i0} and submit that.
+Dialogue: 0,0:06:43.92,0:06:46.05,Default,Tamaki,0000,0000,0000,,Good. That settles it.
+Dialogue: 0,0:06:46.05,0:06:48.88,Default,Tamaki,0000,0000,0000,,Okay, when you finish your\N manuscript, send it to me.
+Dialogue: 0,0:06:48.88,0:06:53.85,Default,Koto,0000,0000,0000,,Also, once we're done here, \Ncan someone go help out in the library?
+Dialogue: 0,0:06:53.85,0:06:55.89,Default,Nukumizu,0000,0000,0000,,Help out with what?
+Dialogue: 0,0:06:55.89,0:07:00.25,Default,Koto,0000,0000,0000,,Every year, a club member helps the \Nlibrary with collection maintenance.
+Dialogue: 0,0:07:00.25,0:07:05.06,Default,Koto,0000,0000,0000,,In exchange, they let us put in requests\N when they order new books.
+Dialogue: 0,0:07:05.06,0:07:08.28,Default,Tamaki,0000,0000,0000,,Yeah, it's a "we scratch their back, \Nthey scratch ours" sort of thing.
+Dialogue: 0,0:07:15.60,0:07:18.13,Default,Nukumizu,0000,0000,0000,,Don't you have a middle school\N reunion party later?
+Dialogue: 0,0:07:18.83,0:07:20.60,Default,Nukumizu,0000,0000,0000,,Wait, is Hakamada going?
+Dialogue: 0,0:07:20.60,0:07:23.33,Default,Anna,0000,0000,0000,,Of course. Karen-chan's coming, too.
+Dialogue: 0,0:07:24.19,0:07:26.55,Default,Nukumizu,0000,0000,0000,,Even though Himemiya-san \Nwas an exchange student?
+Dialogue: 0,0:07:26.55,0:07:31.73,Default,Anna,0000,0000,0000,,Among my friends, if we start dating someone, \Nwe have to introduce them to everyone.
+Dialogue: 0,0:07:31.73,0:07:33.84,Default,Nukumizu,0000,0000,0000,,Are you gonna be okay there?
+Dialogue: 0,0:07:33.84,0:07:38.77,Default,Anna,0000,0000,0000,,Don't worry. I'm no longer the \Nsame person I was in the first term.
+Dialogue: 0,0:07:38.77,0:07:44.43,Default,Anna,0000,0000,0000,,Yes, today I am full of gratitude for all things \Nin the world around me, great and small.
+Dialogue: 0,0:07:44.43,0:07:46.32,Default,Anna,0000,0000,0000,,I have opened my heart to kindness.
+Dialogue: 0,0:07:46.73,0:07:47.65,Default,Nukumizu,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:07:48.98,0:07:52.39,Default,Anna,0000,0000,0000,,Shall I explain it in words even you \Ncan understand, Nukumizu-kun?
+Dialogue: 0,0:07:52.39,0:07:54.25,Default,Nukumizu,0000,0000,0000,,I won't get my hopes up, but sure.
+Dialogue: 0,0:07:54.25,0:07:58.81,Default,Anna,0000,0000,0000,,Well, you see, Sosuke and Karen-chan \Nare both dear friends of mine.
+Dialogue: 0,0:07:59.19,0:08:04.29,Default,Anna,0000,0000,0000,,And when my dear friends find happiness,\Nshouldn't that delight me, as well?
+Dialogue: 0,0:08:05.03,0:08:11.05,Default,Anna,0000,0000,0000,,Essentially, by going out together, \Nthose two have blessed me with great joy.
+Dialogue: 0,0:08:11.05,0:08:14.26,Default,Anna,0000,0000,0000,,At this stage, I feel nothing \Nbut gratitude toward them.
+Dialogue: 0,0:08:15.37,0:08:17.47,Default,Nukumizu,0000,0000,0000,,If you say so, Yanami-san.
+Dialogue: 0,0:08:17.47,0:08:20.02,Default,Anna,0000,0000,0000,,You should read this as well, Nukumizu-kun.
+Dialogue: 0,0:08:20.02,0:08:22.56,Default,text,0000,0000,0000,,{\fnArial Black\fscx90\an8\fs22\bord0\shad0\fay0.008\c&H1A5D76&\pos(271.333,108.666)}108\N Magic Words\Nto Lighten \NYour Heart
+Dialogue: 0,0:08:20.02,0:08:22.56,Default,text,0000,0000,0000,,{\fnArial Black\fscx90\an8\fs16\bord0\shad0\fay0.016\c&H104A5E&\pos(302,24.667)}Umashima San
+Dialogue: 0,0:08:20.55,0:08:22.56,Default,Nukumizu,0000,0000,0000,,Uh, what is that book?
+Dialogue: 0,0:08:23.20,0:08:27.38,Default,Anna,0000,0000,0000,,Well, you see, it teaches you\N how to accept yourself.
+Dialogue: 0,0:08:27.38,0:08:30.49,Default,Anna,0000,0000,0000,,You don't have to take \Nthe yakitori off the stick.
+Dialogue: 0,0:08:30.49,0:08:32.66,Default,Anna,0000,0000,0000,,You can eat the whole thing at once.
+Dialogue: 0,0:08:32.66,0:08:35.07,Default,Anna,0000,0000,0000,,That's the sort of wisdom contained within.
+Dialogue: 0,0:08:35.07,0:08:37.95,Italics,Nukumizu,0000,0000,0000,,Right. So it's a self-help book\Nyou read when you've lost it.
+Dialogue: 0,0:08:38.96,0:08:39.87,Default,Ayano,0000,0000,0000,,Nukumizu!
+Dialogue: 0,0:08:40.72,0:08:42.00,Default,Ayano,0000,0000,0000,,Are you on duty today?
+Dialogue: 0,0:08:42.00,0:08:43.60,Default,Nukumizu,0000,0000,0000,,Oh, uh, yeah.
+Dialogue: 0,0:08:45.69,0:08:47.70,Default,Ayano,0000,0000,0000,,Oh, does this stand out?
+Dialogue: 0,0:08:47.70,0:08:50.11,Default,Nukumizu,0000,0000,0000,,Huh? Well, kinda.
+Dialogue: 0,0:08:50.11,0:08:52.05,Default,Ayano,0000,0000,0000,,It was a present from Chihaya.
+Dialogue: 0,0:08:52.05,0:08:55.93,Default,Ayano,0000,0000,0000,,She told me never to take it off.\N Like, come on, right?
+Dialogue: 0,0:08:55.93,0:09:00.22,Default,Ayano,0000,0000,0000,,When she gave it to me, she made it \Nthis big surprise. You know what it's like.
+Dialogue: 0,0:09:01.13,0:09:02.30,Default,Nukumizu,0000,0000,0000,,Sure.
+Dialogue: 0,0:09:03.35,0:09:06.20,Italics,Nukumizu,0000,0000,0000,,I guess that's what they call\N "humble-bragging."
+Dialogue: 0,0:09:06.65,0:09:11.10,Italics,Nukumizu,0000,0000,0000,,Still, everyone around me is getting dumped, \Nso it was kind of a breath of fresh air.
+Dialogue: 0,0:09:14.04,0:09:15.38,Default,Komari,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:09:15.38,0:09:20.70,Default,Nukumizu,0000,0000,0000,,Nothing. Oh, Komari, you said you'd write \Nsomething new. What are you gonna write?
+Dialogue: 0,0:09:21.12,0:09:24.95,Default,Komari,0000,0000,0000,,A r-reincarnation isekai. R-Romance genre.
+Dialogue: 0,0:09:24.95,0:09:28.20,Default,Komari,0000,0000,0000,,I-I actually started it \Nduring summer vacation.
+Dialogue: 0,0:09:28.20,0:09:28.79,Italics,Nukumizu,0000,0000,0000,,Seriously?
+Dialogue: 0,0:09:28.79,0:09:31.75,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs8.5\b1\c&H20292F&\fax-0.1\frz0.5893\pos(582,84.667)}Tsuwabuki High School
+Dialogue: 0,0:09:28.79,0:09:31.75,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs8.5\b1\c&H20292F&\fax-0.1\frz0.5893\pos(582,104)}Library
+Dialogue: 0,0:09:28.79,0:09:31.75,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs16\b1\c&H20292F&\fax-0.03\frz0.5893\pos(579,141.333)}Class
+Dialogue: 0,0:09:28.79,0:09:31.75,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs16\b1\c&H20292F&\fax-0.05\frz0.5893\pos(580,177.333)}Collection
+Dialogue: 0,0:09:28.79,0:09:31.75,Default,Komari,0000,0000,0000,,I-I even uploaded it to Lit Icon.
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\frz6.203\pos(284.666,19.333)}Guts Justice
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\frz6.203\pos(416,22.666)}(Battle)
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs12\c&HBFAAA0&\frz6.203\pos(405,39)}Silent Tonic
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\frz6.203\pos(294.667,62)}Matsushita Shinji
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\frz6.203\pos(432,55.333)}(Suspense)
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs12\fscx90\c&HBFAAA0&\frz6.203\pos(436.667,78.667)}Forty-Six
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\pos(323.333,102)\frz6.366}Handler Fight
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\frz6.203\pos(418,90.667)}(Robots)
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\frz6.203\pos(384,137.333)}(Comedy)
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HCFA289&\fscx90\frz7.102\pos(428.667,171.333)}Let the Broken \N Engagement Ring Out!
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\pos(310,192)\frz7.398}Kuon Usagi
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HB4B8BA&\frz6.203\pos(420,187.333)}(Romance)
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord2\shad0\blur0.3\b1\fs10\c&HCFA289&\fscx90\frz7.102\3c&HE5EDF0&\pos(316,213.334)}Violet Operation
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs9\c&HA8AAAC&\pos(315,234)\frz8.037}Hyakushiki Kenjiro
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord2\shad0\blur0.3\b1\fs10\c&HCFA289&\fscx90\3c&HE5EDF0&\frz7.752\pos(378.667,245.999)}Mikado-sama: Love Is Warned – Carnal Romance
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HA0A6AA&\frz7.398\pos(321.333,276)}Oda Shimajiro
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HA7ADA8&\frz7.398\pos(435.333,270.667)}(Romance)
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs12\c&HDCAC95&\pos(379.333,301.333)\frz8.449}Personal
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HA7ADA8&\frz7.398\pos(350.667,316)}Master Velvet
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HA7ADA8&\frz7.398\pos(452.667,298.667)}(Suspense)
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord2\shad0\blur0.3\b1\fs10\c&HCFA289&\fscx90\3c&HE5EDF0&\pos(372.667,336)\frz8.526}Motakoi: Love Is DIFFICULT for Otaku
+Dialogue: 0,0:09:31.75,0:09:35.22,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\b1\fs10\c&HA7ADA8&\pos(464.667,351.333)\frz8.499}(Comedy)
+Dialogue: 1,0:09:32.79,0:09:34.78,Default,Nukumizu,0000,0000,0000,,That's your pen name?
+Dialogue: 1,0:09:34.78,0:09:37.11,Default,Nukumizu,0000,0000,0000,,Wait, eighth place overall?!
+Dialogue: 0,0:09:39.01,0:09:43.07,Default,Komari,0000,0000,0000,,Every time I refresh, I have more points!
+Dialogue: 0,0:09:44.09,0:09:45.95,Default,Nukumizu,0000,0000,0000,,When did you find the time?
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs4\c&HE7E7E7&\pos(308,86)}Yakishio Lemon
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord1.5\shad0\blur0.3\b1\fs4\an9\c&HE7E7E7&\pos(387.333,86)\3c&H606766&}Finished practice. Sorry I couldn't make it\Nto lit club. I have plans today, \Nso let's run another time.
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,120)}Total Rating
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,135.334)}Rating PT Average
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,150)}Rating PT Total
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,164.666)}Number of Ratings
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,178.666)}Bookmarks
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,192.666)}Likes
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,206.666)}Comments
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&H8B8D8F&\pos(368,222.666)}Review
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&HB28F77&\pos(361.334,238.666)}Access\NOverview
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs5\c&HB28F77&\pos(378,257)}Edit
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs6\c&H787C80&\pos(311.333,257)}Product Settlings
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\an1\fs6\c&H787C80&\pos(268,268.667)}Product Title
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs6\c&H787C80&\pos(350,282.667)}Let the Broken \NEngagement Ring Out!
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs6\an1\c&H787C80&\pos(284.667,296)}Author Name
+Dialogue: 0,0:09:46.98,0:09:47.81,Default,text,0000,0000,0000,,{\fad(0,140)\bord0\shad0\blur0.3\b1\fs6\an1\c&H787C80&\pos(294.4,307.6)}Kuon Usagi
+Dialogue: 0,0:09:50.73,0:09:53.69,Default,text,0000,0000,0000,,{\b1\blur0.3\bord2\shad0\fs16\fax-0.3\pos(561.333,26)\frz355.5\3c&HA9F3D3&\c&H599575&}K
+Dialogue: 0,0:09:50.73,0:09:53.69,Default,text,0000,0000,0000,,{\b1\blur0.3\bord2\shad0\fs16\fax-0.35\an9\3c&HDBDEC9&\c&H7D7D67&\frz353.1\pos(460.666,123.334)}Finished practice. Sorry I couldn't make it\Nto lit club.\h\h\h
+Dialogue: 0,0:09:50.73,0:09:53.69,Default,text,0000,0000,0000,,{\b1\blur0.3\bord2\shad0\fs16\fax-0.35\an7\3c&HDBDEC9&\c&H7D7D67&\pos(252.667,180.667)\frz352.3}\hI have plans today, \Nso let's run another time.
+Dialogue: 0,0:09:51.14,0:09:53.69,Default,Komari,0000,0000,0000,,M-Message from Yakishio.
+Dialogue: 0,0:09:54.32,0:09:56.60,Default,Nukumizu,0000,0000,0000,,You've been messaging her?
+Dialogue: 0,0:09:56.60,0:10:00.31,Default,Komari,0000,0000,0000,,W-We've been going running \Ntogether now and then.
+Dialogue: 0,0:10:00.31,0:10:02.87,Default,Nukumizu,0000,0000,0000,,Oh, yeah. I remember you talking about that.
+Dialogue: 0,0:10:02.45,0:10:05.91,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs8.5\b1\c&H20292F&\fax-0.1\frz0.5893\pos(582,84.667)}Tsuwabuki High School
+Dialogue: 0,0:10:02.45,0:10:05.91,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs8.5\b1\c&H20292F&\fax-0.1\frz0.5893\pos(582,104)}Library
+Dialogue: 0,0:10:02.45,0:10:05.91,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs16\b1\c&H20292F&\fax-0.03\frz0.5893\pos(579,141.333)}Class
+Dialogue: 0,0:10:02.45,0:10:05.91,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.3\fs16\b1\c&H20292F&\fax-0.05\frz0.5893\pos(580,177.333)}Collection
+Dialogue: 0,0:10:04.01,0:10:05.91,Default,Komari,0000,0000,0000,,I-It's all your fault, Nukumizu.
+Dialogue: 0,0:10:05.91,0:10:07.81,Default,Nukumizu,0000,0000,0000,,Well, I apologize.
+Dialogue: 0,0:10:08.51,0:10:10.88,Default,Nukumizu,0000,0000,0000,,But if you don't want to go,\N why not just say no?
+Dialogue: 0,0:10:11.16,0:10:16.51,Default,Komari,0000,0000,0000,,Wh-When someone comes on to me \Nreally hard, I-I can never say no.
+Dialogue: 0,0:10:16.51,0:10:21.06,Default,Nukumizu,0000,0000,0000,,You've got a personality that's straight \Nout of a dirty comic. I need all the details.
+Dialogue: 0,0:10:21.06,0:10:25.31,Default,Nukumizu,0000,0000,0000,,Uh, no, what I mean is,\Ndo you want me to talk to Yakishio for you?
+Dialogue: 0,0:10:25.31,0:10:28.23,Default,Komari,0000,0000,0000,,A-Actually, I kinda like it.
+Dialogue: 0,0:10:28.23,0:10:32.98,Default,Komari,0000,0000,0000,,Sh-She lets me set the pace,\N and carries me piggyback when I'm tired.
+Dialogue: 0,0:10:36.52,0:10:41.28,Default,Komari,0000,0000,0000,,D-Does Yakishio have a-any brothers?
+Dialogue: 0,0:10:41.28,0:10:45.85,Default,Nukumizu,0000,0000,0000,,Huh? Oh, I have no idea. Why do you ask?
+Dialogue: 0,0:10:45.85,0:10:47.25,Default,Komari,0000,0000,0000,,Recently, Yakishio has...
+Dialogue: 0,0:10:47.94,0:10:50.46,Default,Komari,0000,0000,0000,,No, never mind.
+Dialogue: 0,0:10:52.67,0:10:54.88,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(418,45)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:54.88,0:10:55.00,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(428,47.667)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.00,0:10:55.13,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(435.334,50.334)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.13,0:10:55.25,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(445.334,53.668)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.25,0:10:55.38,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(455.334,57.668)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.38,0:10:55.50,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(488.668,65.668)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.50,0:10:55.63,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(522.668,73.668)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.63,0:10:55.75,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(556.001,81.001)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.75,0:10:55.88,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(587.334,87.668)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:55.88,0:10:56.00,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(626.667,91.668)}You are \N\h\hthe pen!!
+Dialogue: 0,0:10:56.00,0:10:56.13,Default,text,0000,0000,0000,,{\an8\bord0\shad0\blur0.3\fs22\fnGeorgia\b1\c&H0A1215&\frx328\fry350\frz321.3\pos(666,95.668)}You are \N\h\hthe pen!!
+Dialogue: 0,0:11:04.94,0:11:06.85,Default,Lemon,0000,0000,0000,,What? Oh it's you, Nuk-kun.
+Dialogue: 0,0:11:07.31,0:11:11.03,Default,Nukumizu,0000,0000,0000,,Y-Yakishio! At least lock the door!
+Dialogue: 0,0:11:11.03,0:11:14.65,Default,Lemon,0000,0000,0000,,I'm wearing stuff underneath.\NYou're overreacting, Nuk-kun.
+Dialogue: 0,0:11:15.20,0:11:17.86,Italics,Nukumizu,0000,0000,0000,,So that's how she ties the ribbon.
+Dialogue: 0,0:11:17.86,0:11:23.28,Default,Lemon,0000,0000,0000,,The track club room's too cramped, \Nso I'm really glad they let me change here.
+Dialogue: 0,0:11:23.57,0:11:26.28,Default,Nukumizu,0000,0000,0000,,You take your hair clip out for practice, huh?
+Dialogue: 0,0:11:26.28,0:11:28.23,Default,Lemon,0000,0000,0000,,No, I always leave it in.
+Dialogue: 0,0:11:28.23,0:11:31.77,Default,Lemon,0000,0000,0000,,But I polished it yesterday \Nand didn't want it to get dirty.
+Dialogue: 0,0:11:36.70,0:11:37.88,Default,Nukumizu,0000,0000,0000,,Is something up?
+Dialogue: 0,0:11:37.88,0:11:41.09,Default,Lemon,0000,0000,0000,,Huh? What? No, nothing.
+Dialogue: 0,0:11:42.03,0:11:43.54,Default,Lemon,0000,0000,0000,,See you later.
+Dialogue: 0,0:11:48.69,0:11:51.94,Default,Kaju,0000,0000,0000,,Was Yanami-san with you\N at your club yesterday?
+Dialogue: 0,0:11:51.94,0:11:54.19,Default,Nukumizu,0000,0000,0000,,Huh? Yeah, she was.
+Dialogue: 0,0:11:54.19,0:11:55.40,Default,Kaju,0000,0000,0000,,That's wonderful.
+Dialogue: 0,0:11:55.73,0:11:59.73,Default,Kaju,0000,0000,0000,,When you said you made a friend recently, \Nthat was Yanami-san, wasn't it?
+Dialogue: 0,0:11:59.73,0:12:00.88,Default,Nukumizu,0000,0000,0000,,Well, yeah.
+Dialogue: 0,0:12:00.88,0:12:03.82,Default,Kaju,0000,0000,0000,,What do you say to inviting her over again?
+Dialogue: 0,0:12:03.82,0:12:06.19,Default,Kaju,0000,0000,0000,,I simply must give her a proper interview!
+Dialogue: 0,0:12:06.19,0:12:07.78,Default,Nukumizu,0000,0000,0000,,You don't need to interview her.
+Dialogue: 0,0:12:08.58,0:12:11.99,Default,Nukumizu,0000,0000,0000,,But she's just a friend. \NIt isn't that big a deal.
+Dialogue: 0,0:12:12.31,0:12:13.75,Default,Nukumizu,0000,0000,0000,,It's not like we hang out alon—
+Dialogue: 0,0:12:13.75,0:12:15.61,Default,Kaju,0000,0000,0000,,But that's how it always begins!
+Dialogue: 0,0:12:15.61,0:12:18.21,Default,Kaju,0000,0000,0000,,When I saw her up close, \Nshe was a lovely person!
+Dialogue: 0,0:12:20.36,0:12:23.24,Default,Kaju,0000,0000,0000,,Big brother, is that from Yanami-san?
+Dialogue: 0,0:12:23.59,0:12:25.92,Default,Nukumizu,0000,0000,0000,,Um, it might be.
+Dialogue: 0,0:12:25.92,0:12:27.55,Default,Kaju,0000,0000,0000,,She's asking you out to tea!
+Dialogue: 0,0:12:27.55,0:12:30.47,Default,Kaju,0000,0000,0000,,Going to a café with a girl...\NThat's practically a date!
+Dialogue: 0,0:12:30.47,0:12:31.89,Default,Nukumizu,0000,0000,0000,,No, it really isn't.
+Dialogue: 0,0:12:31.89,0:12:33.14,Default,text,0000,0000,0000,,{\b1\blur0.3\bord2\shad0\fs16\an9\3c&HE9EDE8&\c&H797D76&\pos(418.666,104.668)\frz359.4\t(1000,1220,\c&H121716&\3c&H121716&)}You awake? If you have time, wanna \Nget something to drink?
+Dialogue: 0,0:12:31.89,0:12:33.14,Default,text,0000,0000,0000,,{\b1\blur0.3\bord2\shad0\fs16\an9\3c&HC6F9E7&\c&H797D76&\frz359.4\t(1000,1220,\c&H121716&\3c&H121716&)\pos(502.667,212)}Sure
+Dialogue: 0,0:12:34.24,0:12:39.94,Italics,Nukumizu,0000,0000,0000,,That's what I told Kaju, anyway. But going \Nto a café with a girl during vacation...
+Dialogue: 0,0:12:41.40,0:12:45.09,Italics,Nukumizu,0000,0000,0000,,Is that not what one would call a date?
+Dialogue: 0,0:12:46.90,0:12:49.22,Italics,Nukumizu,0000,0000,0000,,In all the light novels \Nand manga I've read,
+Dialogue: 0,0:12:49.22,0:12:52.04,Italics,Nukumizu,0000,0000,0000,,even if you aren't going out,\Nit counts as a date.
+Dialogue: 0,0:12:52.33,0:12:55.01,Italics,Nukumizu,0000,0000,0000,,Which means that Yanami...
+Dialogue: 0,0:12:55.59,0:12:57.80,Italics,Nukumizu,0000,0000,0000,,has asked me out on a date?!
+Dialogue: 0,0:13:00.41,0:13:03.05,Default,Anna,0000,0000,0000,,This world should perish.
+Dialogue: 0,0:13:03.05,0:13:05.03,Italics,Nukumizu,0000,0000,0000,,Yup, this definitely isn't a date.
+Dialogue: 0,0:13:05.40,0:13:10.36,Default,Anna,0000,0000,0000,,I knew this would happen. \NI knew this was how it would turn out.
+Dialogue: 0,0:13:10.87,0:13:12.88,Default,Anna,0000,0000,0000,,But to see it happening before my eyes...
+Dialogue: 0,0:13:13.39,0:13:15.96,Default,Nukumizu,0000,0000,0000,,You mean when you see them\N flirting and stuff?
+Dialogue: 0,0:13:15.96,0:13:19.77,Default,Anna,0000,0000,0000,,No, they don't do a lot of \Nflirting and stuff in public.
+Dialogue: 0,0:13:19.77,0:13:20.95,Default,Nukumizu,0000,0000,0000,,Isn't that a good thing?
+Dialogue: 0,0:13:20.95,0:13:23.15,Default,Anna,0000,0000,0000,,That isn't the issue!
+Dialogue: 0,0:13:23.15,0:13:26.09,Default,Anna,0000,0000,0000,,She quietly cleans up after they eat,
+Dialogue: 0,0:13:26.09,0:13:28.49,Default,Anna,0000,0000,0000,,and he carries her bag \Nfor her like it's nothing.
+Dialogue: 0,0:13:28.49,0:13:31.68,Default,Anna,0000,0000,0000,,It's that casual chemistry between them!
+Dialogue: 0,0:13:31.68,0:13:34.48,Default,Anna,0000,0000,0000,,When they meet, \Nthey communicate with just a look.
+Dialogue: 0,0:13:34.48,0:13:38.09,Default,Anna,0000,0000,0000,,They share reward cards. \NTheir ringtones are the same.
+Dialogue: 0,0:13:38.09,0:13:41.50,Default,Anna,0000,0000,0000,,And then, they walk home together\Nwithout saying anything first!
+Dialogue: 0,0:13:44.84,0:13:49.54,Default,Anna,0000,0000,0000,,Damn straight! They're like newlyweds in heat\N who can't keep their paws off each other!
+Dialogue: 0,0:13:49.54,0:13:50.05,Default,Server,0000,0000,0000,,Would...
+Dialogue: 0,0:13:50.05,0:13:50.48,Default,Anna,0000,0000,0000,,What?!
+Dialogue: 0,0:13:50.48,0:13:52.80,Default,Server,0000,0000,0000,,Would you like anything else?
+Dialogue: 0,0:13:52.80,0:13:54.02,Default,Anna,0000,0000,0000,,No! We're fine!
+Dialogue: 0,0:13:55.50,0:13:58.62,Top,Anna,0000,0000,0000,,Ooh, nice. Very nice.
+Dialogue: 0,0:13:56.02,0:14:00.73,Default,Nukumizu,0000,0000,0000,,Yanami-san, you're just having a \Ncream soda today? You're not eating?
+Dialogue: 0,0:14:05.58,0:14:07.70,Default,Anna,0000,0000,0000,,Nukumizu-kun, listen closely.
+Dialogue: 0,0:14:08.36,0:14:12.08,Default,Anna,0000,0000,0000,,Somen noodles are carbohydrates. \NThey're essentially sugar.
+Dialogue: 0,0:14:12.08,0:14:13.16,Italics,Nukumizu,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:14:13.16,0:14:16.81,Default,Anna,0000,0000,0000,,But those little guys are all cool \Nand slippery, and they look so thin.
+Dialogue: 0,0:14:16.81,0:14:19.39,Default,Anna,0000,0000,0000,,Doesn't it seem like they'd be okay to eat?
+Dialogue: 0,0:14:19.39,0:14:22.34,Default,Nukumizu,0000,0000,0000,,Um, so you're saying you ate too \Nmuch somen and gained wei—
+Dialogue: 0,0:14:22.34,0:14:24.35,Default,Anna,0000,0000,0000,,No, I have {\i1}not{\i0} gained weight!
+Dialogue: 0,0:14:24.35,0:14:26.97,Default,Nukumizu,0000,0000,0000,,But a cream soda is also mostly sugar.
+Dialogue: 0,0:14:26.97,0:14:32.27,Default,Anna,0000,0000,0000,,Drinks don't count! There's a theory \Nthat ice cream doesn't make you fat.
+Dialogue: 0,0:14:35.02,0:14:36.22,Default,Anna,0000,0000,0000,,They're dropping hints.
+Dialogue: 0,0:14:36.22,0:14:37.48,Default,Nukumizu,0000,0000,0000,,Huh? What's that mean?
+Dialogue: 0,0:14:37.48,0:14:39.94,Default,Anna,0000,0000,0000,,Nukumizu-kun, I want to \Ndrop hints like that, too.
+Dialogue: 0,0:14:39.94,0:14:42.73,Default,Anna,0000,0000,0000,,I'll spread posts all around social media
+Dialogue: 0,0:14:42.73,0:14:46.41,Default,Anna,0000,0000,0000,,hinting that I'm with a boy \Nto distract them and stuff.
+Dialogue: 0,0:14:46.41,0:14:47.90,Italics,Nukumizu,0000,0000,0000,,What's the point of that?
+Dialogue: 0,0:14:50.19,0:14:51.07,Default,Anna,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:54.99,0:14:58.46,Default,Nukumizu,0000,0000,0000,,It's Ayano and Yakishio. \NWhat are they doing together?
+Dialogue: 0,0:14:58.46,0:15:00.75,Default,Anna,0000,0000,0000,,Nukumizu-kun, do you think they're cheating?
+Dialogue: 0,0:15:01.00,0:15:04.31,Default,Nukumizu,0000,0000,0000,,But they've been friends a long time.
+Dialogue: 0,0:15:04.81,0:15:05.67,Default,Anna,0000,0000,0000,,They're cheating.
+Dialogue: 0,0:15:05.67,0:15:11.18,Default,Nukumizu,0000,0000,0000,,But like, if you and Hakamada went somewhere \Ntogether, that wouldn't be cheating, would it?
+Dialogue: 0,0:15:11.18,0:15:12.80,Default,Anna,0000,0000,0000,,It's cheating!
+Dialogue: 0,0:15:16.73,0:15:18.86,Default,Anna,0000,0000,0000,,Looks like they already left.
+Dialogue: 0,0:15:18.86,0:15:21.94,Default,Nukumizu,0000,0000,0000,,Well, maybe we should call it \Nfor today. I'll see you later.
+Dialogue: 0,0:15:21.94,0:15:23.98,Default,Anna,0000,0000,0000,,You're giving up already?
+Dialogue: 0,0:15:33.33,0:15:37.21,Default,Anna,0000,0000,0000,,Hey, Nukumizu-kun. Do you know that girl?
+Dialogue: 0,0:15:38.95,0:15:41.92,Default,Chihaya,0000,0000,0000,,Hello there. Do you remember who I am?
+Dialogue: 0,0:15:43.35,0:15:44.75,Default,Nukumizu,0000,0000,0000,,Um...
+Dialogue: 0,0:15:45.79,0:15:47.56,Default,Chihaya,0000,0000,0000,,It's me, Asagumo Chihaya!
+Dialogue: 0,0:15:48.86,0:15:51.68,Default,Nukumizu,0000,0000,0000,,Oh, Ayano's girlfriend, right?
+Dialogue: 0,0:15:51.68,0:15:55.93,Default,Chihaya,0000,0000,0000,,Yes! Did you happen to see Mitsuki-san \Nand Yakishio-san come this way?
+Dialogue: 0,0:15:55.93,0:15:57.28,Default,Anna,0000,0000,0000,,Yeah, they were—
+Dialogue: 0,0:15:57.28,0:15:59.52,Default,Nukumizu,0000,0000,0000,,G-Gosh, I really couldn't say.
+Dialogue: 0,0:16:01.56,0:16:02.94,Default,Chihaya,0000,0000,0000,,So you did see them.
+Dialogue: 0,0:16:02.94,0:16:05.65,Default,Nukumizu,0000,0000,0000,,Uh, see them? Well, yes, but...
+Dialogue: 0,0:16:06.00,0:16:10.90,Default,Chihaya,0000,0000,0000,,Shall we... find somewhere \Nmore comfortable to talk?
+Dialogue: 0,0:16:14.36,0:16:17.37,Italics,Nukumizu,0000,0000,0000,,Why does it have to be my room?
+Dialogue: 0,0:16:19.08,0:16:21.56,Default,Anna,0000,0000,0000,,Is this poster made out of cloth?
+Dialogue: 0,0:16:21.56,0:16:23.42,Default,Chihaya,0000,0000,0000,,You mustn't ask that, Yanami-san.
+Dialogue: 0,0:16:23.42,0:16:26.79,Default,Chihaya,0000,0000,0000,,It is polite to pretend not \Nto notice things like that.
+Dialogue: 0,0:16:27.16,0:16:31.67,Default,Anna,0000,0000,0000,,Oh, so this is the kind of poster you'd \Nbe embarrassed to show other people?
+Dialogue: 0,0:16:31.67,0:16:36.07,Default,Chihaya,0000,0000,0000,,If a girl from class saw I had a tapestry\N full of beautiful girls in underwear,
+Dialogue: 0,0:16:36.07,0:16:37.82,Default,Chihaya,0000,0000,0000,,I don't know how I'd live with myself.
+Dialogue: 0,0:16:37.82,0:16:40.86,Default,Nukumizu,0000,0000,0000,,Hold on! That isn't underwear!\NThey're combat uniforms!
+Dialogue: 0,0:16:40.86,0:16:43.97,Default,Anna,0000,0000,0000,,If they're combat uniforms, \Nwhy are they showing so much skin?
+Dialogue: 0,0:16:43.97,0:16:47.60,Default,Nukumizu,0000,0000,0000,,That's because they release \Nmana from their skin...
+Dialogue: 0,0:16:47.60,0:16:50.23,Default,Nukumizu,0000,0000,0000,,for the, uh, Sigma Drive.
+Dialogue: 0,0:16:50.23,0:16:55.86,Default,Anna,0000,0000,0000,,Oh, I see. So why are the girls \Ncrawling on top of each other in bed?
+Dialogue: 0,0:16:56.89,0:16:59.11,Default,Nukumizu,0000,0000,0000,,Someone put me out of my misery!
+Dialogue: 0,0:16:59.83,0:17:04.04,Default,Kaju,0000,0000,0000,,When the five Awakened join together, \Nthe Sigma Drive begins to resonate,
+Dialogue: 0,0:17:04.04,0:17:08.42,Default,Kaju,0000,0000,0000,,and that allows the legendary weapon, \NPashupatastra, to be unsealed.
+Dialogue: 0,0:17:08.42,0:17:12.34,Default,Kaju,0000,0000,0000,,So you see, there is a valid reason \Nfor these girls in combat uniforms
+Dialogue: 0,0:17:12.34,0:17:13.92,Default,Kaju,0000,0000,0000,,to be physically connected.
+Dialogue: 0,0:17:14.21,0:17:18.03,Italics,Nukumizu,0000,0000,0000,,She just kind of spoiled it. \NI haven't read that far yet.
+Dialogue: 0,0:17:16.31,0:17:18.03,Top,Kaju,0000,0000,0000,,I've brought drinks for everyone.
+Dialogue: 0,0:17:18.03,0:17:19.89,Top,Chihaya,0000,0000,0000,,I apologize for visiting unannounced.
+Dialogue: 0,0:17:18.03,0:17:19.89,Default,Anna,0000,0000,0000,,Woohoo! Thanks!
+Dialogue: 0,0:17:24.05,0:17:26.48,Default,Nukumizu,0000,0000,0000,,So what did you want to talk about?
+Dialogue: 0,0:17:27.18,0:17:30.69,Default,Chihaya,0000,0000,0000,,Yes, of course. I would like to \Nbe completely honest with you.
+Dialogue: 0,0:17:31.86,0:17:34.49,Default,Chihaya,0000,0000,0000,,I suspect Mitsuki-san is cheating on me.
+Dialogue: 0,0:17:34.80,0:17:37.91,Default,Chihaya,0000,0000,0000,,I have been following him \Nto try to catch him in the act.
+Dialogue: 0,0:17:38.28,0:17:42.45,Default,Chihaya,0000,0000,0000,,So if possible, I would like to ask\N you two for your assistance.
+Dialogue: 0,0:17:43.37,0:17:44.43,Default,Nukumizu,0000,0000,0000,,Sorry, but—
+Dialogue: 0,0:17:44.43,0:17:47.27,Default,Anna,0000,0000,0000,,I guess I don't really mind assisting.
+Dialogue: 0,0:17:47.27,0:17:47.92,Default,Nukumizu,0000,0000,0000,,Yanami-san?!
+Dialogue: 0,0:17:48.71,0:17:53.27,Default,Chihaya,0000,0000,0000,,I am aware that those two were \Nchildhood friends. And I am aware that...
+Dialogue: 0,0:17:54.25,0:17:56.38,Default,Chihaya,0000,0000,0000,,she has a crush on Mitsuki-san.
+Dialogue: 0,0:17:56.38,0:18:07.35,Default,text,0000,0000,0000,,{\fnImpact\b1\fs16\blur0.3\fax0.04\shad0\bord2.5\frz32.12\c&HE4E7D9&\pos(304,209.333)\frx10\fry4}Black Thunder
+Dialogue: 0,0:17:57.30,0:18:02.75,Default,Chihaya,0000,0000,0000,,I like Mitsuki-san very much. \NThat's why I want him to be happy.
+Dialogue: 0,0:18:03.47,0:18:06.13,Default,Chihaya,0000,0000,0000,,Even if that means he \Ndoesn't remain by my side.
+Dialogue: 0,0:18:06.13,0:18:07.35,Default,Nukumizu,0000,0000,0000,,Are you saying...
+Dialogue: 0,0:18:08.81,0:18:10.85,Default,Chihaya,0000,0000,0000,,I've been wondering for quite some time...
+Dialogue: 0,0:18:11.24,0:18:15.15,Default,Chihaya,0000,0000,0000,,if maybe he should've dated her instead.
+Dialogue: 0,0:18:15.15,0:18:20.12,Default,Chihaya,0000,0000,0000,,It may look like I came out of nowhere \Nand stole Mitsuki-san from her.
+Dialogue: 0,0:18:21.28,0:18:24.96,Default,Chihaya,0000,0000,0000,,That's why I want to ascertain \NMitsuki-san's true feelings.
+Dialogue: 0,0:18:25.54,0:18:31.04,Default,Chihaya,0000,0000,0000,,If he truly does have feelings\N for Yakishio-san, then I'm...
+Dialogue: 0,0:18:32.44,0:18:33.93,Default,Chihaya,0000,0000,0000,,prepared to step aside.
+Dialogue: 0,0:18:35.85,0:18:39.68,Default,Kaju,0000,0000,0000,,It feels like my brother\N is going very far away.
+Dialogue: 0,0:18:41.47,0:18:45.26,Default,Gon-chan,0000,0000,0000,,If it comes to that, Nuku-chan, \NI'll take you as my own.
+Dialogue: 0,0:18:45.67,0:18:47.64,Default,Kaju,0000,0000,0000,,But I want my brother.
+Dialogue: 0,0:18:47.64,0:18:51.93,Default,Gon-chan,0000,0000,0000,,Nuku-chan, you're such a cutie.\N C'mon and be my bride already.
+Dialogue: 0,0:18:51.93,0:18:53.48,Default,Kaju,0000,0000,0000,,I don't wanna.
+Dialogue: 0,0:18:58.03,0:18:59.38,Default,text,0000,0000,0000,,{\b1\shad0\bord0\fs6\an7\c&H2A2D30&\pos(292,225.333)\frz358.1}Please come to Toyohashi Station
+Dialogue: 0,0:18:58.03,0:18:59.76,Default,text,0000,0000,0000,,{\b1\shad0\bord0\fs5\an7\c&H2A2D30&\frz358.1\pos(312.667,210)}Asagumo Chihaya
+Dialogue: 0,0:19:01.27,0:19:04.41,Default,Nukumizu,0000,0000,0000,,Why did you decide to help her, Yanami-san?
+Dialogue: 0,0:19:04.83,0:19:08.68,Default,Anna,0000,0000,0000,,Did you see the look on Lemon-chan's face \Nwhen she was walking with Ayano-kun?
+Dialogue: 0,0:19:09.56,0:19:12.83,Default,Anna,0000,0000,0000,,You wouldn't look like that with \Nsomeone you've really given up on.
+Dialogue: 0,0:19:12.83,0:19:16.71,Default,Anna,0000,0000,0000,,When push comes to shove, the only people \Nwho can really watch over Lemon-chan,
+Dialogue: 0,0:19:16.71,0:19:19.45,Default,Anna,0000,0000,0000,,or really chew her out,\N are you and me, right?
+Dialogue: 0,0:19:24.22,0:19:26.93,Default,Anna,0000,0000,0000,,Are he and Lemon-chan here?
+Dialogue: 0,0:19:27.37,0:19:30.56,Default,Chihaya,0000,0000,0000,,Yes. They appear to be visiting \Nthe food carts one by one.
+Dialogue: 0,0:19:30.56,0:19:31.94,Default,Chihaya,0000,0000,0000,,We should wait here.
+Dialogue: 0,0:19:32.65,0:19:35.51,Default,Nukumizu,0000,0000,0000,,How did you know they'd be meeting here?
+Dialogue: 0,0:19:36.90,0:19:37.91,Default,Chihaya,0000,0000,0000,,With GPS.
+Dialogue: 0,0:19:37.91,0:19:40.36,Italics,Nukumizu,0000,0000,0000,,She said that like it was nothing!
+Dialogue: 0,0:19:40.36,0:19:40.99,Default,Nukumizu,0000,0000,0000,,So then—
+Dialogue: 0,0:19:40.99,0:19:42.57,Default,Chihaya,0000,0000,0000,,Voices down! They're here!
+Dialogue: 0,0:19:42.92,0:19:44.80,Default,Chihaya,0000,0000,0000,,At the Italian gelato shop.
+Dialogue: 0,0:20:03.93,0:20:06.89,Default,text,0000,0000,0000,,{\an7\bord2\shad0\fs15\b1\fscx60\fay-0.44\pos(368,324.667)\3c&HE5D9C7&\c&H7F7C74&\t(1315,1500,\alpha&HFF&)\t(2000,2230,\alpha&H00&,)}Paperback Book Cover
+Dialogue: 0,0:20:11.47,0:20:12.85,Default,Nukumizu,0000,0000,0000,,Asagumo-san?
+Dialogue: 0,0:20:14.11,0:20:18.36,Default,Chihaya,0000,0000,0000,,What a lovely book cover. \NDon't you think he'd love it?
+Dialogue: 0,0:20:18.36,0:20:21.70,Default,Nukumizu,0000,0000,0000,,Yeah, that's nice. He does love books.
+Dialogue: 0,0:20:21.70,0:20:26.01,Default,Chihaya,0000,0000,0000,,Mitsuki-san says he wants to find \Na job that has to do with books.
+Dialogue: 0,0:20:26.93,0:20:30.31,Default,Chihaya,0000,0000,0000,,The first time he told me that,\N I was quite surprised.
+Dialogue: 0,0:20:30.64,0:20:35.29,Default,Chihaya,0000,0000,0000,,I realized someone who shared my dream\N was standing right beside me.
+Dialogue: 0,0:20:39.90,0:20:43.13,Default,Chihaya,0000,0000,0000,,You know, he really dislikes sweet things.
+Dialogue: 0,0:20:43.62,0:20:46.72,Default,Chihaya,0000,0000,0000,,I was aware of that, so I've never \Nsuggested anything like that.
+Dialogue: 0,0:20:47.99,0:20:52.89,Default,Chihaya,0000,0000,0000,,So I've never gone out to eat anything \Nsweet with him, like gelato.
+Dialogue: 0,0:20:52.89,0:20:56.69,Default,Nukumizu,0000,0000,0000,,Uh, okay... but hey, what about savory crêpes?
+Dialogue: 0,0:20:56.69,0:21:01.29,Default,Nukumizu,0000,0000,0000,,And the gelato Ayano was eating may not \Nhave been a sweet one. Like, uh, tuna mayo?
+Dialogue: 0,0:21:01.29,0:21:04.09,Default,Chihaya,0000,0000,0000,,Tuna mayo by itself would \Ngive him an upset stomach.
+Dialogue: 0,0:21:04.63,0:21:07.14,Default,Chihaya,0000,0000,0000,,Mitsuki-san would need \Nsomething like a salad.
+Dialogue: 0,0:21:10.71,0:21:16.84,Default,Chihaya,0000,0000,0000,,I envy Yakishio-san. She's straightforward \Nand expresses her feelings clearly.
+Dialogue: 0,0:21:17.62,0:21:21.75,Default,Chihaya,0000,0000,0000,,All I ever think about is how \NI don't want to upset Mitsuki-san.
+Dialogue: 0,0:21:22.02,0:21:25.66,Default,Nukumizu,0000,0000,0000,,I'm sure it's fine if you want to \Neat ice cream together sometimes.
+Dialogue: 0,0:21:26.01,0:21:29.31,Default,Nukumizu,0000,0000,0000,,He isn't the type to get upset \Nover a request like that.
+Dialogue: 0,0:21:30.52,0:21:35.23,Default,Chihaya,0000,0000,0000,,You're actually a very kind person, \NNukumizu-san. I had you all wrong.
+Dialogue: 0,0:21:35.52,0:21:38.73,Italics,Nukumizu,0000,0000,0000,,I think the entire school has me all wrong.
+Dialogue: 0,0:21:42.53,0:21:43.53,Default,Chihaya,0000,0000,0000,,This way!
+Dialogue: 0,0:21:43.53,0:21:44.40,Default,Nukumizu,0000,0000,0000,,H-Hey, wait!
+Dialogue: 0,0:21:47.91,0:21:50.66,Default,Nukumizu,0000,0000,0000,,Ayano? Wasn't Yakishio with him?
+Dialogue: 0,0:21:50.66,0:21:51.87,Default,Chihaya,0000,0000,0000,,It was only Mitsuki-san.
+Dialogue: 0,0:21:52.61,0:21:54.81,Default,Chihaya,0000,0000,0000,,I'll check out the situation outside.
+Dialogue: 0,0:22:00.22,0:22:04.05,Default,Chihaya,0000,0000,0000,,Nukumizu-san, I deeply \Nregret to inform you...
+Dialogue: 0,0:22:04.05,0:22:04.89,Default,Nukumizu,0000,0000,0000,,Yes?
+Dialogue: 0,0:22:05.69,0:22:07.97,Default,Chihaya,0000,0000,0000,,Mitsuki-san has found us.
+Dialogue: 0,0:22:11.45,0:22:13.14,Default,Ayano,0000,0000,0000,,Why are you guys here together?
+Dialogue: 0,0:22:13.39,0:22:15.22,Default,Nukumizu,0000,0000,0000,,U-Um...
+Dialogue: 0,0:22:15.62,0:22:16.64,Default,Chihaya,0000,0000,0000,,Mitsuki-san.
+Dialogue: 0,0:22:16.97,0:22:18.67,Default,Chihaya,0000,0000,0000,,I would like to suggest that...
+Dialogue: 0,0:22:21.03,0:22:23.20,Default,Chihaya,0000,0000,0000,,Nukumizu-san explains it all to you.
+Dialogue: 0,0:22:27.45,0:22:29.95,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.5\fs26\fnGeorgia\pos(320,80)\c&HE9E9E9&\t(0,400,\c&HB2B1B5&)\t(400,800,\c&HE9E9E9&\blur0.9)\t(800,1200,\c&HB2B1B5&\blur0.3)\t(1200,1600,\c&HE9E9E9&\blur0.9)\t(1600,2000,\c&HB2B1B5&\blur0.3)\t(2000,2400,\c&HE9E9E9&\blur0.9)\t(2400,2800,\c&HB2B1B5&\blur0.3)\t(2800,3200,\c&HE9E9E9&\blur0.9)\t(3200,3600,\c&HB2B1B5&\blur0.3)\t(3600,4000,\c&HE9E9E9&\blur0.9)}Episode 5
+Dialogue: 0,0:22:27.45,0:22:29.95,Default,text,0000,0000,0000,,{\bord0\shad0\blur0.5\fs25\an8\fnGeorgia\c&HE9E9E9&\t(0,400,\c&HB2B1B5&)\t(400,800,\c&HE9E9E9&\blur0.9)\t(800,1200,\c&HB2B1B5&\blur0.3)\t(1200,1600,\c&HE9E9E9&\blur0.9)\t(1600,2000,\c&HB2B1B5&\blur0.3)\t(2000,2400,\c&HE9E9E9&\blur0.9)\t(2400,2800,\c&HB2B1B5&\blur0.3)\t(2800,3200,\c&HE9E9E9&\blur0.9)\t(3200,3600,\c&HB2B1B5&\blur0.3)\t(3600,4000,\c&HE9E9E9&\blur0.9)\pos(320,250)}Asagumo Chihaya Is Led Astray
